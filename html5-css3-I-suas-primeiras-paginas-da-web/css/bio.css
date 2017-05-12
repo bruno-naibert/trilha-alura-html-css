@@ -3,7 +3,6 @@ body {
   font-family: "Crimson Text", serif;
   font-size: 20px;
 }
-
 main h1 {
   background-color: rgb(133, 25, 68);
   color: rgb(255, 255, 255);
@@ -13,17 +12,14 @@ main h1 {
   padding: 20px;
   text-align: center;
 }
-
 h2 {
   font-family: "Open Sans", sans-serif;
   font-size: 40px;
 }
-
 p {
   margin: 20px 0;
   text-align: justify;
 }
-
 blockquote {
   background-color: #D3DDDA;
   border: 10px solid #C2CCCA;
@@ -31,4 +27,32 @@ blockquote {
   margin: 0;
   padding: 16px;
   width: 250px;
+}
+strong {
+  font-weight: 600;
+}
+em {
+  font-style: italic;
+}
+aside {
+  background-color: #3C1D3D;
+  color: #F2FFFC;
+  font-family: "Opens Sans Condensed", sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+nav h1 {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+nav a {
+  color: inherit;
+}
+.icones-sociais li  {
+  display: inline-block;
+}
+footer {
+  background-color: #000;
+  color: #F2FFFC;
+  padding: 20px;
 }
