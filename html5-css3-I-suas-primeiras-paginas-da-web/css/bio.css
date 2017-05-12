@@ -9,6 +9,8 @@ main h1 {
   color: rgb(255, 255, 255);
   font-family: "Open Sans", sans-serif;
   font-size: 60px;
+  margin: 0;
+  padding: 20px;
   text-align: center;
 }
 
@@ -19,4 +21,13 @@ h2 {
 
 p {
   text-align: justify;
+}
+
+blockquote {
+  background-color: #D3DDDA;
+  border: 10px solid #C2CCCA;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 16px;
+  width: 250px;
 }
