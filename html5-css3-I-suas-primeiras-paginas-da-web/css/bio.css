@@ -1,11 +1,22 @@
-h1 {
+body {
+  background-color: #F2FFFC;
+  font-family: "Crimson Text", serif;
+  font-size: 20px;
+}
+
+main h1 {
   background-color: rgb(133, 25, 68);
   color: rgb(255, 255, 255);
   font-family: "Open Sans", sans-serif;
   font-size: 60px;
   text-align: center;
 }
+
 h2 {
   font-family: "Open Sans", sans-serif;
   font-size: 40px;
+}
+
+p {
+  text-align: justify;
 }
