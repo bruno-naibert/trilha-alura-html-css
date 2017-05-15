@@ -1,7 +1,10 @@
+html {
+  font-size: 120%;
+}
+
 body {
     font-family: "Crimson Text", "Times New Roman", serif;
     background-color: #F2FFFC;
-    font-size: 120%;
     line-height: 1.5;
 }
 
@@ -15,7 +18,7 @@ h1 {
 }
 
 .titulo-principal {
-    font-size: 60px;;
+    font-size: 3em;;
     text-align: center;
     background-color: #851944;
     color: #FFF;
