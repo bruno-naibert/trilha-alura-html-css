@@ -1,6 +1,10 @@
 .foto-home {
     height: 200px;
 }
+.subtitulo-principal-index {
+  font-size: 25px;
+  text-align: center;
+}
 .saudacao p {
     font-size: 1.5em;
     color: #99A;
